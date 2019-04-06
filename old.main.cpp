@@ -1,5 +1,5 @@
-#define STREAM_ARRAY_SIZE 32000
-#define NTIMES    390625
+#define STREAM_ARRAY_SIZE 125000000
+#define NTIMES    100
 
 #include <stdio.h>
 #include <stdlib.h>
